@@ -1,0 +1,9 @@
+.java-course/
+__pycache__/
+.idea/
+*.iml
+.DS_Store
+.vscode/
+out/
+*.class
+stand/
